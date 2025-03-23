@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BhctfzymqvVUcwmoN5/5cVk44zWig90tNkitp9VyaQU=",
+  "Source": "WeatherStreamService",
+  "BasePath": "_content/WeatherStreamService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

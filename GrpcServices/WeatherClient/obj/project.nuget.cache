@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GVExBK5c0LE=",
+  "success": true,
+  "projectFilePath": "/home/numnummer/university/dotnetLearn/MM/GrpcServices/WeatherClient/WeatherClient.csproj",
+  "expectedPackageFiles": [
+    "/home/numnummer/.nuget/packages/google.protobuf/3.30.1/google.protobuf.3.30.1.nupkg.sha512",
+    "/home/numnummer/.nuget/packages/grpc.core.api/2.70.0/grpc.core.api.2.70.0.nupkg.sha512",
+    "/home/numnummer/.nuget/packages/grpc.net.client/2.70.0/grpc.net.client.2.70.0.nupkg.sha512",
+    "/home/numnummer/.nuget/packages/grpc.net.common/2.70.0/grpc.net.common.2.70.0.nupkg.sha512",
+    "/home/numnummer/.nuget/packages/grpc.tools/2.71.0/grpc.tools.2.71.0.nupkg.sha512",
+    "/home/numnummer/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

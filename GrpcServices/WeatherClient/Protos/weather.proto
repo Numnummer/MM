@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option csharp_namespace = "WeatherStreamService";
+
+service WeatherService {
+  rpc GetWeatherStream(WeatherRequest) returns (stream WeatherResponse);
+}
+
+message WeatherRequest {
+  string location = 1;
+}
+
+message WeatherResponse {
+  string timestamp = 1;
+  string weather = 2;
+}
