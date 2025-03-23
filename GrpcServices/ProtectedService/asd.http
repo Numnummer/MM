@@ -1,0 +1,8 @@
+### POST запрос для получения токена
+POST http://localhost:5251/q
+Content-Type: application/json
+
+{
+  "a": "user",
+  "b": "password"
+}

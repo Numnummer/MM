@@ -33,3 +33,4 @@
 /home/numnummer/university/dotnetLearn/MM/GrpcServices/WeatherStreamService/obj/Debug/net8.0/WeatherStreamService.genruntimeconfig.cache
 /home/numnummer/university/dotnetLearn/MM/GrpcServices/WeatherStreamService/obj/Debug/net8.0/ref/WeatherStreamService.dll
 /home/numnummer/university/dotnetLearn/MM/GrpcServices/WeatherStreamService/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/numnummer/university/dotnetLearn/MM/GrpcServices/WeatherStreamService/obj/Debug/net8.0/WeatherStreamService.sourcelink.json
